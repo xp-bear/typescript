@@ -10,7 +10,7 @@ const height: number = 1.88;
 //foo没有添加类型注解
 
 /*
-let foo = "foo";
-foo = 123;
+    let foo = "foo";
+    foo = 123;
 */
 export {};

@@ -1,6 +1,6 @@
 const info = {
   name: "why",
-  age: 18
-}
+  age: 18,
+};
 
-console.log(info.name)
+console.log(info.name);
